@@ -1,12 +1,12 @@
 /*Easy copy paste just change lcd screen to lcdscreen2 and lcdscreen3 
 for the three timers*/
-#lcdScreen{
+#lcdScreen, #lcdScreen2, #lcdScreen3{
     border: 1px solid black;
     padding-right: 65px;
     padding-left: 3px;
 }
 
-#lcdScreen{
+#lcdScreen, #lcdScreen2, #lcdScreen3{
     background-color: white;
 }
 
